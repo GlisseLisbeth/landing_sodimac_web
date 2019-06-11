@@ -1,0 +1,1246 @@
+// use prefix of landing name
+
+/*General Sodimac Constructor*/
+.bg-gray {
+    background-color: $bg-gray;
+}
+.bg-yellow {
+    background-color: $bg-yellow;
+}
+.bg-white {
+    background-color: $bg-white;
+}
+.margin-auto {
+    margin: auto;
+}
+.max-width-1000 {
+    max-width: 1000px;
+}
+.no-padding {
+    padding-left: 0;
+    padding-right: 0;
+}
+.padding-bottom-50 {
+    padding-bottom: 50px;
+}
+.pos-relative {
+    position: relative;
+}
+.no-padding-left {
+    padding-left: 0;
+}
+.no-padding-right {
+    padding-right: 0;
+}
+.over-flow {
+    overflow: hidden;
+}
+.padding-top-10 {
+    padding-top: 10px;
+}
+.padding-top-30 {
+    padding-top: 30px;
+}
+.padding-top-150 {
+    padding-top: 150px;
+}
+.padding-top-100 {
+    padding-top: 100px;
+}
+.padding-bottom-20 {
+    padding-bottom: 7px;
+}
+.padding-20 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.padding-30 {
+    padding-bottom: 30px;
+}
+.no-margin {
+    margin-left: 0;
+    margin-right: 0;
+}
+.margin-10 {
+    margin-right: -10px;
+}
+.margin-top-12 {
+    margin-top: 12px;
+}
+.letter-helvetica {
+    font-family: "Helvetica";
+}
+.letter-misoregular {
+    font-family: "misoregular";
+}
+.iconForDesktop {
+    svg {
+        path {
+            fill: $bg-black;
+        }
+    }
+}
+#scrollSizeU {
+    svg {
+        path {
+            fill: $bg-black;
+        }
+    }
+
+    .iconSearch-Responsive {
+        .holaBuscador {
+            svg {
+                path {
+                    fill: $bg-black;
+                }
+            }
+        }
+    }
+    .iconForMobile {
+        svg {
+            path {
+                fill: $bg-black;
+            }
+        }
+    }
+}
+
+
+#header {
+	.action-box{
+		&:before {
+			border: none;
+		}
+	}
+}
+
+
+.servicioAlClienteMobile {
+    display: none;
+}
+
+/*Banner Hire Tools*/
+.sope-tools-banner {
+    display: block;
+    position: relative;
+}
+.slider-tools-banner {
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    height: 400px;
+}
+
+.slider-drag-tools {
+	ul.slick-dots {
+		display: inline-block;
+		width: 100%;
+		position: relative;
+		bottom: 100px;
+		height: 6px;
+    	margin: 0;
+		padding: 0;
+		li {
+			display: inline-block;
+			padding: 5px;
+			button {
+				border: none;
+				padding: 5px;
+				background: $bg-white;
+				width: 10px;
+				height: 10px;
+				border-radius: 21px;
+				&:before {
+					content: "";
+				}
+			}
+		}
+		.slick-active {
+			button {
+				border: none;
+				padding: 4px;
+				background: $bg-yellow;
+			}
+		}
+	}
+	.slick-prev {
+		left: 25px;
+		top: 39%;
+		width: 24px;
+		height: 40px;
+		z-index: 100;
+		&:before {
+			content: "";
+		}
+	}
+	.slick-next {
+		right: 30px;
+		top: 39%;
+		width: 24px;
+		height: 40px;
+		z-index: 100;
+		&:before {
+			content: "";
+		}
+	}
+}
+
+/*Container Banner Hire Tools*/
+.sope-banner {
+    width: 1000px !important;
+    height: auto;
+    position: absolute;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    padding-top: 5%;
+}
+.sope-square-banner {
+    position: absolute;
+    top: 70px;
+    width: 460px;
+    height: 110px;
+}
+.sope-tools-title-banner {
+    color: $bg-black;
+    display: inline-block;
+    position: absolute;
+    text-align: center;
+    font-family: misoregular;
+    font-size: 35px;
+    line-height: 1;
+    padding: 10px 147px;
+    background-image: url(../img/recuadro_banner.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    top: 93px;
+}
+.sope-text-banner {
+    position: absolute;
+    background-color: $bg-black;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    font-family: misoregular;
+    line-height: 1;
+    font-weight: 100;
+    margin-top: 118px;
+}
+.slider-banner-1 {
+	background-image: url(../img/banner-taladro.jpg);
+	.sope-text-banner {
+		padding: 17px 110px;
+	}
+}
+.slider-banner-2 {
+    background-image: url(../img/banner-andamios.jpg);
+	.sope-text-banner {
+		padding: 17px 89px;
+	}
+}
+.slider-banner-3 {
+    background-image: url(../img/banner-banos.jpg);
+	.sope-text-banner {
+		padding: 17px 91px;
+	}
+}
+.slick-dotted.slick-slider {
+    margin-bottom: 0;
+}
+.link-banner {
+    display: block;
+    height: 100%;
+    color: $bg-black;
+}
+/*Container Benefits Hire Tools*/
+.subtitle {
+    font-size: 23px;
+    color: $bg-black;
+    padding-bottom: 12px;
+    padding-top: 16px;
+    line-height: 1em;
+    text-align: left;
+    font-family: misoregular;
+    font-weight: 400;
+}
+.sope-tools-category-header {
+    position: relative;
+    font-family: misoregular;
+    padding: 10px 0 13px;
+}
+.sope-tools-category-header h3 {
+    margin: 0 auto 0 0;
+    font-size: 3.5rem;
+    line-height: 2.7rem;
+    border-bottom: 1px #000 solid;
+    padding-bottom: 10px;
+}
+.box-benefits {
+    color: $bg-black;
+    font-family: misoregular, Helvetica, sans-serif;
+    text-align: center;
+    height: 190px;
+    background-color: white;
+    border-top: 2px solid $bg-yellow;
+    font-weight: 300;
+    font-size: 1.4rem;
+	line-height: 1.2;
+	.benefits-desc {
+		font-size: 2.2rem;
+		font-weight: bold;
+		font-family: "misoregular";
+	}
+	.letter-desc {
+		font-size: 2rem;
+		font-family: "misoregular";
+	}
+}
+.box-title-benefits {
+    background-color: $bg-yellow;
+    padding: 9px;
+    line-height: 2;
+    font-size: 1.6rem;
+}
+.box-content-benefits {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: "Helvetica";
+    width: 71%;
+}
+/*Box Slider Fixed*/
+.box-container {
+    width: 100%;
+    height: 100%;
+    color: $bg-white;
+    text-align: center;
+}
+.box-wrapper-mark {
+    margin-left: -10px;
+    margin-right: -15px;
+}
+.box-slide-mark {
+    width: 12.19%;
+    display: inline-block;
+    padding: 10px;
+}
+/*Slider swiper*/
+.swiper-container {
+    width: 100%;
+    height: 100%;
+    color: $bg-white;
+    text-align: center;
+    margin-left: -5px;
+}
+/*Container Step Hire Tools*/
+.sope-tools-process-wrapper {
+    color: $bg-white;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: left;
+    height: 150px;
+}
+.sope-tools-image {
+    display: inline-block;
+    width: 70px;
+    height: 70px;
+}
+.sope-tools-info {
+    position: absolute;
+    display: inline-block;
+    text-decoration: none;
+    font-family: misoregular;
+    margin: auto 0;
+    padding-left: 15px;
+}
+.sope-tools-titlebig {
+    font-size: 3.5rem;
+    line-height: 2.5rem;
+    padding: 5px 0;
+    background-color: $bg-black;
+    text-align: center;
+    width: 100px;
+    margin: 0;
+}
+.sope-tools-titlesmall {
+    font-size: 1.3rem;
+    line-height: 1.5rem;
+    color: $bg-black;
+    margin-top: 10px;
+    font-family: Helvetica, sans-serif;
+}
+.sope-tools-infoitalic {
+    font-style: italic;
+    font-family: Helvetica, sans-serif;
+    color: $bg-black;
+}
+/*Container Questions Hire Tools*/
+.sope-tools-banner-question {
+    position: relative;
+    height: 160px;
+    width: 100%;
+}
+.sope-tools-banner-question.banner-rent-guarantee {
+    background: url("../img/el-alquiler-y-la-garantia-desktop.jpg") no-repeat
+        center center;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+}
+.sope-tools-banner-question.banner-tools {
+    background: url("../img/las-herramientas-desktop.jpg") no-repeat center
+        center;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+}
+.sope-tools-text-banner {
+    position: absolute;
+    top: 45px;
+    color: white;
+    background-color: $bg-black;
+    font-size: 3.5rem;
+    padding: 5px;
+    margin-left: 5px;
+    font-family: misoregular;
+}
+.sope-tools-question-wrapper {
+    text-decoration: none;
+    margin-top: -10px;
+}
+.accordion-question {
+    background: $bg-white;
+    width: 100%;
+}
+
+.card-block {
+    padding: 20px 10px 20px 0;
+}
+.btn-hour {
+    color: $bg-white;
+    text-decoration: none;
+    background: $bg-black;
+    display: block;
+    font-family: misoregular;
+    padding: 10px;
+    text-align: center;
+    width: 40%;
+    margin: 10px auto;
+	font-size: 20px;
+	&:hover {
+		color: $bg-white;
+		text-decoration: none;
+		background: $bg-yellow;
+	}
+	&:visited {
+		color: $bg-white;
+	}
+	&:focus {
+		color: $bg-white;
+	}
+}
+
+/* - ACCORDION - */
+
+.accordion-question .mod-accordion {
+	span {
+		display: block;
+	}
+	.item-accord {
+		display: block;
+		.items {
+			padding-left: 20px;
+		}
+		.question {
+			display: none;
+		}
+		h5 {
+			font-size: 19px;
+			font-weight: normal;
+			line-height: 23px;
+			cursor: pointer;
+			display: block;
+			border-radius: 4px;
+			a {
+				text-decoration: none;
+				display: flex;
+				align-items: center;
+				font-size: 2rem;
+				padding: 10px;
+				color: $bg-black;
+				justify-content: space-between;
+				font-family: "misoregular";
+				border-bottom: 1px solid #e2e2e2;
+				width: 96%;
+				margin: auto;
+				display: -webkit-flex;
+				-webkit-align-items: center;
+				&:focus {
+					text-decoration: none;
+					color: $bg-black;
+				}
+			}
+		}
+		p {
+			display: block;
+			text-align: justify;
+			padding: 2px 12px;
+			font-family: Helvetica, Arial, sans-serif;
+			font-size: 1.3rem;
+			line-height: 2rem;
+			color: $bg-black;
+			span {
+				font-family: "MisoBold", Arial, Helvetica, sans-serif;
+				display: block;
+				padding-top: 10px;
+			}
+			a {
+				color: #dd0021;
+				text-decoration: none;
+				:hover {
+					text-decoration: underline;
+				}
+			}
+		}
+	}
+	.none {
+		border-bottom: 0;
+	}
+} 
+
+.plus {
+    font-size: 15px !important;
+    transition: all 3s;
+    padding: 6px;
+    color: $bg-black;
+}
+
+/*Container Marks Hire Tools*/
+.img-mark {
+    width: 100px;
+    height: auto;
+}
+/*Container Map Hire Tools*/
+.sope-tools-map-img {
+    height: 330px;
+}
+.map-container {
+    width: 100%;
+    height: 450px;
+}
+#map-canvas {
+    width: 100%;
+    height: 100%;
+    margin-top: 130px;
+}
+.map-form {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: $bg-black;
+}
+.sope-tools-map-header {
+    font-family: misoregular;
+    padding: 25px 0;
+    float: right;
+}
+.sope-tools-map-header-left {
+    margin: 10px -90px 10px 0;
+    font-size: 3rem;
+    line-height: 3rem;
+    width: 100%;
+    text-indent: -19px;
+    padding-left: 40px;
+}
+.map-form {
+	.form-group {
+		font-size: 1.5em;
+		padding-top: 12px;
+		padding-left: 23px;
+		padding-bottom: 12px;
+		label {
+			width: 55%;
+			color: $bg-white;
+			padding-top: 12px;
+			font-family: "misoregular", Arial, Helvetica, sans-serif;
+			padding-bottom: 12px;
+		}
+		.select {
+			cursor: pointer;
+			display: inline-block;
+			position: relative;
+			font-size: 0.7em;
+			color: #747474;
+			max-width: 370px;
+			height: 40px;
+			width: 100%;
+		}
+	}
+}
+.box-map-information {
+    font-size: 1em;
+	line-height: 1.5;
+	.title-tienda {
+		padding-top: 15px;
+		height: 77px;
+		.name-box-info-tienda {
+			color: $bg-black;
+			font-weight: 700;
+			font-size: 1.2em;
+		}
+		.address-box-info-tienda {
+			font-size: 1.4rem;
+		}
+	}
+	.box-container-info-hour {
+		background-color: $bg-yellow;
+		height: 77px;
+		padding-top: 15px;
+		.day-tools {
+			font-weight: 600;
+			font-size: 1.6rem;
+		}
+	}
+}
+.gm-style-iw {
+    width: 345px !important;
+    height: 156px !important;
+    top: 48px !important;
+    left: 28px !important;
+    background-color: $bg-yellow;
+    box-shadow: 0 1px 6px rgba(178, 178, 178, 0.6);
+    border-radius: 2px 2px 0 0;
+    padding: 0;
+}
+.arrow-map-down {
+	&:before {
+		content: "";
+		width: 0;
+		height: 0;
+		border-left: 15px solid transparent;
+		border-right: 15px solid transparent;
+		border-top: 15px solid $bg-yellow;
+		position: absolute;
+		right: 46%;
+		bottom: -25%;
+		z-index: 10;
+	}
+}
+/*Modal Content Hour*/
+.modal-header-hour {
+	background-color: $bg-white;
+	height: 30px;
+}
+.modal-content-hour {
+	background-color: $bg-white;
+	font-family: misoregular;
+    font-size: 17px;
+    line-height: 1.5;
+    border: 5px solid $bg-yellow !important;
+    width: 95%;
+    margin: auto;
+}
+
+.button-header-hour {
+    opacity: 1 !important;
+    color: $bg-black;
+    background-color: $bg-yellow;
+    position: absolute;
+    right: -42px;
+    top: -5px;
+    padding: 5px 10px;
+    border: none;
+}
+.span-header-hour {
+    color: $bg-black;
+	font-weight: 100;
+	img {
+		width: 17px;
+		height: auto;
+	}
+}
+.span-header-close {
+    font-size: 14px;
+    color: $bg-black;
+    font-weight: 400;
+}
+.modal-body-hour {
+    width: 100%;
+    padding-top: 0 !important;
+}
+.container-hour-main {
+    font-size: 18px;
+}
+.center-text-store {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+.format-text-hour {
+    font-family: Helvetica;
+    font-size: 13px;
+    text-align: right;
+}
+#myModalHour {
+    top: 0 !important;
+    height: auto !important;
+}
+.title-hour-main {
+    text-align: center;
+    font-weight: 600;
+    line-height: 1;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+/*Media queries*/
+@include minw(sm2) {
+    .modal-dialog-hour {
+        width: 800px;
+        margin: 30px auto;
+    }
+    .img-step-left {
+        background-image: url(../img/recuadro-paso-left.png);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+    }
+    .img-step-center {
+        background-image: url(../img/recuadro-paso-center.png);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+    }
+    .img-step-right {
+        background-image: url(../img/recuadro-paso-right.png);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+    }
+    .modal-line-1 {
+        background-image: url(../img/recuadro-modal-1.svg);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+    }
+    .modal-line-2 {
+        background-image: url(../img/recuadro-modal-2.svg);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+    }
+    .modal-line-3 {
+        background-image: url(../img/recuadro-modal-3.svg);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+    }
+    .modal-line-4 {
+        background-image: url(../img/recuadro-modal-4.svg);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+    }
+}
+@include maxw(sm2) {
+    .margin-top-10 {
+        margin-top: -10px;
+    }
+    .Newlogo {
+        background-repeat: no-repeat;
+        background-size: 100%;
+        margin-left: 0;
+    }
+    .slider-banner-1 {
+        background-image: url(../img/banner-taladro-mb.jpg);
+    }
+    .slider-banner-2 {
+        background-image: url(../img/banner-andamios-mb.jpg);
+    }
+    .slider-banner-3 {
+        background-image: url(../img/banner-banos-mb.jpg);
+    }
+    .slider-tools-banner {
+        height: 410px;
+    }
+    .slider-drag-tools {
+        ul.slick-dots {
+            bottom: -17px;
+            li {
+                button {
+                    background: #adadad;
+                }
+            }
+            .sope-banner {
+                padding-top: 18%;
+                padding-left: 8%;
+            }
+        }
+        .slick-next {
+            display: none !important;
+        }
+        .slick-prev {
+            display: none !important;
+        }
+        .subtitle {
+            text-align: center;
+        }
+    }
+    .sope-tools-category-header {
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .swiper-container-benefits {
+        margin: 0 auto;
+        width: 85%;
+    }
+    .swiper-button-prev {
+        background: url(../img/arrow.png) no-repeat left top;
+        position: absolute;
+        left: 10px;
+        top: 40%;
+        margin-top: -15px;
+        width: 17px;
+        height: 30px;
+    }
+    .swiper-button-next {
+        background: url(../img/arrow.png) no-repeat left bottom;
+        position: absolute;
+        right: 10px;
+        top: 40%;
+        margin-top: -15px;
+        width: 17px;
+        height: 30px;
+    }
+    .box-content-benefits {
+        width: 80%;
+    }
+    .sope-tools-process-wrapper {
+        text-align: center;
+        height: 225px;
+    }
+    .sope-tools-info {
+        position: relative;
+        display: block;
+        padding-top: 10px;
+        padding-left: 0;
+    }
+    .sope-tools-titlebig {
+        padding: 5px 0;
+        margin: auto;
+        font-size: 2.2rem;
+    }
+    .no-padding-left {
+        padding-left: 15px;
+    }
+    .no-padding-right {
+        padding-right: 15px;
+    }
+    .slide-mark {
+        width: auto;
+        padding-left: 20px;
+    }
+    .accordion-question {
+        .mod-accordion {
+            .item-accord {
+                h5 {
+                    a {
+                        font-size: 1.8rem;
+                    }
+                }
+            }
+        }
+    }
+    .sope-tools-map-header {
+        position: relative;
+        font-family: misoregular;
+        padding: 10px 0 13px;
+
+        float: none;
+    }
+    .sope-tools-map-header-left {
+        text-align: center;
+        font-size: 2.2rem;
+        text-align: center;
+        border-bottom: 1px #000 solid;
+        padding-left: 0;
+    }
+    .map-container {
+        height: 50vh;
+        margin-top: -76px;
+    }
+    .map-form {
+        background-color: $bg-white;
+        .form-group {
+            padding: 10px;
+            font-size: 1.5em;
+            background-color: $bg-black;
+        }
+        .form-select-primary {
+            background-image: -webkit-linear-gradient(
+                to bottom,
+                $bg-yellow 50px,
+                transparent 50px
+            );
+            background-image: -moz-linear-gradient(
+                to bottom,
+                $bg-yellow 50px,
+                transparent 50px
+            );
+            background-image: -o-linear-gradient(
+                to bottom,
+                $bg-yellow 50px,
+                transparent 50px
+            );
+            background-image: linear-gradient(
+                to bottom,
+                $bg-yellow 50px,
+                transparent 50px
+            );
+            z-index: 10;
+        }
+        .form-select-secondary {
+            background-color: transparent;
+            z-index: 9;
+        }
+    }
+    .modal-header-hour {
+        background-color: $bg-white;
+    }
+    .modal-content-hour {
+        background-color: $bg-white;
+        border: 1px solid $bg-white !important;
+    }
+    .modal-dialog-hour {
+        margin: 15px;
+    }
+    .scrollbar-hour {
+        overflow-y: scroll;
+        height: 78vh;
+        overflow-x: hidden;
+    }
+    .slider-banner-1 {
+        .sope-text-banner {
+            padding: 17px 110px;
+            left: 12px;
+        }
+    }
+    .slider-banner-2 {
+        .sope-text-banner {
+            padding: 17px 89px;
+            left: 12px;
+        }
+    }
+    .slider-banner-3 {
+        .sope-text-banner {
+            padding: 17px 91px;
+            left: 12px;
+        }
+    }
+    .sope-tools-title-banner {
+        top: 160px;
+        left: 12px;
+    }
+    .button-header-hour {
+        background-color: $bg-white;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+    }
+    .span-header-close {
+        display: inline-block !important;
+    }
+    .span-header-hour {
+        display: inline-block !important;
+        img {
+            width: 14px;
+            height: 18px;
+        }
+    }
+    .gm-style-iw {
+        width: 324px !important;
+        height: 146px !important;
+        top: 48px !important;
+        left: 28px !important;
+        background: white;
+    }
+    .arrow-map-down{
+        &:before {
+            bottom: -27%;
+        }
+    }
+    .box-title-benefits {
+        font-size: 1.7rem;
+    }
+    .box-benefits {
+        height: 170px;
+    }
+    .padding-20 {
+        padding-top: 0;
+        padding-left: 0;
+    }
+    .btn-hour {
+        width: 80%;
+    }
+    #map-canvas {
+        margin-top: 200px;
+        z-index: 1;
+    }
+    .nav {
+        .sope-tools-menu-u {
+            padding-top: 80px;
+        }
+    }
+    .sope-tools-text-banner {
+        font-size: 2.2rem;
+    }
+    .modal-mobile-none {
+        background-image: none;
+    }
+    .line-pos-1{
+        background-image: url(../img/lineas/puntos-600.png),
+            url(../img/lineas/puntos-600-vertical.png);
+        background-position: bottom, right;
+        background-repeat: no-repeat, no-repeat;
+    }
+    .line-pos-3 {
+        background-image: url(../img/lineas/puntos-600.png),
+            url(../img/lineas/puntos-600-vertical.png);
+        background-position: bottom, right;
+        background-repeat: no-repeat, no-repeat;
+    }
+    .line-pos-2 {
+        background-image: url(../img/lineas/puntos-600.png);
+        background-position: bottom;
+        background-repeat: no-repeat;
+    }
+    .line-pos-4 {
+        background-image: url(../img/lineas/puntos-600.png);
+        background-position: bottom;
+        background-repeat: no-repeat;
+    }
+    .line-modal-mobile-hour {
+        background-image: url(../img/lineas/puntos-600.png);
+        background-position: bottom;
+        background-repeat: no-repeat;
+    }
+    .line-pos-5 {
+        background-image: url(../img/lineas/puntos-600-vertical.png);
+        background-position: right;
+        background-repeat: no-repeat;
+    }
+}
+@include maxw(sm) {
+    .slider-tools-banner {
+        height: 310px;
+    }
+    .sope-tools-shapes-banner {
+        height: 78px;
+    }
+    .sope-tools-title-banner {
+        font-size: 24px;
+    }
+    .subtitle {
+        font-size: 20px;
+    }
+    .sope-tools-category-header h3 {
+        font-size: 2.2rem;
+        text-align: center;
+    }
+    .slide-benefits {
+        width: 170px;
+    }
+    .box-benefits {
+        font-size: 1.3rem;
+    }
+    .sope-tools-map-img {
+        height: 140px;
+    }
+    .map-form {
+        .form-group {
+            .select {
+                cursor: pointer;
+                display: inline-block;
+                position: relative;
+                font-size: 0.7em;
+                color: #747474;
+                max-width: 370px;
+                height: 40px;
+                width: 100%;
+            }
+        }
+    }
+    .slider-banner-1 {
+        .sope-text-banner {
+            padding: 18px 113px;
+            font-size: 18px;
+            top: 112px;
+        }
+    }
+    .slider-banner-2 {
+        .sope-text-banner {
+            padding: 18px 98px;
+            font-size: 18px;
+            top: 112px;
+        }
+    }
+    .slider-banner-3 {
+        .sope-text-banner {
+            padding: 18px 99px;
+            font-size: 18px;
+            top: 112px;
+        }
+    }
+    .sope-tools-process-wrapper {
+        height: 245px;
+    }
+    .sope-tools-banner-question {
+        height: 160px;
+    }
+}
+@include maxw(xs4) {
+    .slider-tools-banner {
+        height: 215px;
+    }
+    .sope-tools-shapes-banner {
+        height: 68px;
+    }
+    .sope-tools-title-banner {
+        padding: 5px 62px;
+        top: 91px;
+    }
+    .slider-banner-1 {
+        .sope-text-banner {
+            padding: 10px 29px;
+            top: 33px;
+            font-size: 18px;
+        }
+    }
+    .slider-banner-2 {
+        .sope-text-banner {
+            padding: 10px 13px;
+            top: 33px;
+            font-size: 18px;
+        }
+    }
+    .slider-banner-3 {
+        .sope-text-banner {
+            padding: 10px 15px;
+            top: 33px;
+            font-size: 18px;
+        }
+    }
+    .sope-banner {
+        padding-top: 14%;
+    }
+    .sope-tools-banner-question.banner-rent-guarantee {
+        background-image: url("../img/el-alquiler-y-la-garantia-mb.jpg") !important;
+    }
+    .sope-tools-banner-question.banner-tools {
+        background-image: url("../img/las-herramientas-mb.jpg") !important;
+    }
+    .sope-tools-banner-question {
+        height: 160px;
+    }
+    .sope-tools-process-wrapper {
+        height: 240px;
+    }
+}
+@include maxw(xs2) {
+    .sope-tools-shapes-banner {
+        height: 68px;
+    }
+    .sope-tools-title-banner {
+        padding: 5px 50px;
+        top: 90px;
+    }
+    .sope-banner {
+        padding-top: 14%;
+    }
+
+    .slider-banner-1 {
+        .sope-text-banner {
+            padding: 10px 27px;
+            top: 33px;
+            font-size: 16px;
+        }
+    }
+    .slider-banner-2{
+        .sope-text-banner {
+            padding: 10px 13px;
+            top: 33px;
+            font-size: 16px;
+        }
+    }
+    .slider-banner-3 {
+        .sope-text-banner {
+            padding: 10px 15px;
+            top: 33px;
+            font-size: 16px;
+        }
+    }
+    .btn-hour {
+        width: 80%;
+    }
+    .sope-tools-process-wrapper {
+        height: 280px;
+    }
+    .sope-tools-banner-question {
+        height: 120px;
+    }
+    .sope-tools-text-banner {
+        top: 28px;
+    }
+    .gm-style-iw {
+        width: 240px !important;
+    }
+    .format-text-hour {
+        padding-left: 0px;
+    }
+    .swiper-button-prev {
+        left: 4px;
+    }
+    .swiper-button-next {
+        right: 4px;
+    }
+}
+@include minw(zero) {
+    /* Styles CSS for IE9, IE10, IE11  */
+    .slider-drag-tools {
+        .slick-prev {
+            width: 24px;
+            height: 40px;
+            background-image: url("../img/iconos/arrow_left.png");
+        }
+        .slick-next {
+            width: 24px;
+            height: 40px;
+            background-image: url("../img/iconos/arrow_right.png");
+        }
+    }
+    .sope-tools-title-banner {
+        top: 75px;
+        left: 0;
+        width: 457px;
+        height: 106px;
+    }
+    .slider-banner-1 {
+        .sope-text-banner {
+            padding: 17px 107px;
+        }
+    }
+    .slider-banner-2 {
+        .sope-text-banner {
+            padding: 17px 89px;
+        }
+    }
+    .slider-banner-3 {
+        .sope-text-banner {
+            padding: 17px 91px;
+        }
+    }
+}

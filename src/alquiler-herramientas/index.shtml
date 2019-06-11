@@ -1,0 +1,1331 @@
+<!--=include ../../commons/html/header.html -->
+
+<link
+    rel="stylesheet"
+    type="text/css"
+    href="http://www.sodimac.com.pe/static/home/dist/css/vendor/swiper.min.css"
+/>
+<link
+    rel="stylesheet"
+    type="text/css"
+    href="<!-- replace_url -->assets/css/main.min.css"
+/>
+<div class="sope-tools bg-gray">
+    <div class="sope-tools-banner">
+        <div class="slider-drag-tools">
+            <div
+                class="slider-tools-banner slider-banner-1 b-lazy"
+                title="Alquiler de herramientas - Rotomartillo"
+            >
+                <a
+                    class="link-banner"
+                    href="http://www.sodimac.com.pe/sodimac-pe/content/a1640002/ObraGruesa-Perforacion-Demolicion?cid=ctghoc11990"
+                    title="Alquiler de herramientas - Rotomartillo"
+                    onclick="ga('send', 'event', '2018_2_Landing_Constructor_AlquilerDeHerramientas', 'Click', 'Boton_ObraGruesaPerforacionDemolicion')"
+                    tabindex="0"
+                >
+                    <div class="sope-banner">
+                        <div class="sope-logo-banner">
+                            <span class="sope-tools-title-banner"
+                                >ALQUILER DE <br />
+                                HERRAMIENTAS</span
+                            >
+                        </div>
+                        <div class="sope-text-banner">
+                            Optimice su presupuesto <br />
+                            con nuestro Servicio de Alquiler
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div
+                class="slider-tools-banner slider-banner-2 b-lazy"
+                title="Alquiler de herramientas - Andamios"
+            >
+                <a
+                    class="link-banner"
+                    href="http://www.sodimac.com.pe/sodimac-pe/content/a1660001/Maquinaria-de-carga-Andamios-Escaleras?cid=ctghoc11991"
+                    title="Alquiler de herramientas - Andamios"
+                    onclick="ga('send', 'event', '2018_2_Landing_Constructor_AlquilerDeHerramientas', 'Click', 'Boton_MaquinariasCargaAndamiosEscaleras')"
+                    tabindex="0"
+                >
+                    <div class="sope-banner">
+                        <div class="sope-logo-banner">
+                            <span class="sope-tools-title-banner"
+                                >ALQUILER DE <br />
+                                HERRAMIENTAS</span
+                            >
+                        </div>
+                        <div class="sope-text-banner">
+                            Agilice sus construcciones con ayuda <br />
+                            de nuestros andamios
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div
+                class="slider-tools-banner slider-banner-3 b-lazy"
+                title="Alquiler de herramientas - Baños"
+            >
+                <a
+                    class="link-banner"
+                    href="http://www.sodimac.com.pe/sodimac-pe/content/a1650002/Contenedores-Banos?cid=ctghoc11989"
+                    title="Alquiler de herramientas - Baños"
+                    onclick="ga('send', 'event', '2018_2_Landing_Constructor_AlquilerDeHerramientas', 'Click', 'Boton_ContenedoresBanos')"
+                    tabindex="0"
+                >
+                    <div class="sope-banner">
+                        <div class="sope-logo-banner">
+                            <span class="sope-tools-title-banner"
+                                >ALQUILER DE <br />
+                                HERRAMIENTAS</span
+                            >
+                        </div>
+                        <div class="sope-text-banner">
+                            Otorgue privacidad y comodidad con <br />
+                            nuestros prácticos baños portátiles
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="sope-tools pos-relative max-width-1000 margin-auto">
+        <div id="menu-tools" class="sope-tools-menu"></div>
+    </div>
+</div>
+<div class="sope-tools bg-gray over-flow padding-top-100">
+    <div class="sope-tools-benefits max-width-1000 margin-auto">
+        <p class="subtitle">
+            Ponga en marcha sus proyectos:
+        </p>
+        <div class="row center-block">
+            <div class="sope-tools-category-header">
+                <h3>
+                    + CONOZCA NUESTROS BENEFICIOS
+                </h3>
+            </div>
+            <div class="row sope-tools-category-body no-margin">
+                <div class="center-block padding-20 hidden-xs hidden-sm">
+                    <div class="box-container">
+                        <div class="row box-wrapper">
+                            <div class="col-md-3 box-slide slide-benefits-1">
+                                <div class="box-benefits">
+                                    <span class="box-title-benefits">
+                                        SOCIO CES
+                                    </span>
+                                    <div class="box-content-benefits">
+                                        <span class="benefits-desc">10% </span
+                                        ><span class="letter-desc">DCTO</span
+                                        ><br />del precio de alquiler diario.
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 box-slide slide-benefits-2">
+                                <div class="box-benefits">
+                                    <span class="box-title-benefits">
+                                        SOCIO CES
+                                    </span>
+                                    <div class="box-content-benefits">
+                                        Si es cliente frecuente de SODIMAC,
+                                        obtendrá
+                                        <span class="benefits-desc">50% </span
+                                        ><span class="letter-desc">DCTO</span>
+                                        en garantías.
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 box-slide slide-benefits-3">
+                                <div class="box-benefits">
+                                    <span class="box-title-benefits">
+                                        SOCIO CES
+                                    </span>
+                                    <div class="box-content-benefits">
+                                        Si es cliente frecuente de SODIMAC y de
+                                        ALQUILER DE HERRAMIENTAS, no pague
+                                        garantía.
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 box-slide slide-benefits-4">
+                                <div class="box-benefits">
+                                    <span class="box-title-benefits">
+                                        TODOS LOS CLIENTES
+                                    </span>
+                                    <div class="box-content-benefits">
+                                        Si alquila herramientas por una semana,
+                                        no se cobrará el séptimo día.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div
+                    class="center-block padding-20 pos-relative visible-xs visible-sm"
+                >
+                    <a
+                        class="swiper-button-prev"
+                        href="#"
+                        title="Click"
+                        onclick="ga('send', 'event', '2018_2_Landing_Constructor_AlquilerDeHerramientas', 'Click', 'Boton_Beneficios_VerAnterior')"
+                    ></a>
+                    <a
+                        class="swiper-button-next"
+                        href="#"
+                        title="“Click”"
+                        onclick="ga('send', 'event', '2018_2_Landing_Constructor_AlquilerDeHerramientas', 'Click', 'Boton_Beneficios_VerSiguiente')"
+                    ></a>
+                    <div class="swiper-container swiper-container-benefits">
+                        <div class="swiper-wrapper">
+                            <div
+                                class="swiper-slide slide-benefits slide-benefits-1"
+                            >
+                                <div class="box-benefits">
+                                    <span class="box-title-benefits">
+                                        SOCIO CES
+                                    </span>
+                                    <div class="box-content-benefits">
+                                        <span class="benefits-desc">10% </span
+                                        ><span class="letter-desc">DCTO</span
+                                        ><br />del precio de alquiler diario.
+                                    </div>
+                                </div>
+                            </div>
+                            <div
+                                class="swiper-slide slide-benefits slide-benefits-2"
+                            >
+                                <div class="box-benefits">
+                                    <span class="box-title-benefits">
+                                        SOCIO CES
+                                    </span>
+                                    <div class="box-content-benefits">
+                                        Si es cliente frecuente de SODIMAC,
+                                        obtendrá
+                                        <span class="benefits-desc">50% </span
+                                        ><span class="letter-desc">DCTO</span>
+                                        en garantías.
+                                    </div>
+                                </div>
+                            </div>
+                            <div
+                                class="swiper-slide slide-benefits slide-benefits-3"
+                            >
+                                <div class="box-benefits">
+                                    <span class="box-title-benefits">
+                                        SOCIO CES
+                                    </span>
+                                    <div class="box-content-benefits">
+                                        Si es cliente frecuente de SODIMAC y de
+                                        ALQUILER DE HERRAMIENTAS, no pague
+                                        garantía.
+                                    </div>
+                                </div>
+                            </div>
+                            <div
+                                class="swiper-slide slide-benefits slide-benefits-4"
+                            >
+                                <div class="box-benefits">
+                                    <span class="box-title-benefits">
+                                        TODOS LOS CLIENTES
+                                    </span>
+                                    <div class="box-content-benefits">
+                                        Si alquila herramientas por una semana,
+                                        no se cobrará el séptimo día.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="sope-tools bg-yellow">
+    <div class="sope-tools-step max-width-1000 margin-auto">
+        <div class="row center-block padding-20">
+            <div class="sope-tools-category-header">
+                <h3>
+                    + SIGA ESTOS PASOS PARA ALQUILAR SU HERRAMIENTA
+                </h3>
+            </div>
+            <div class="row sope-tools-category-body no-margin">
+                <div
+                    class="col-md-4 col-sm-6 col-xs-6 img-step-left line-pos-1"
+                >
+                    <div class="sope-tools-process-wrapper">
+                        <img
+                            class="sope-tools-image"
+                            src="<!-- replace_url -->assets/img/paso1.svg"
+                        />
+                        <div class="sope-tools-info">
+                            <h3 class="sope-tools-titlebig">PASO 1</h3>
+                            <h5 class="sope-tools-titlesmall">
+                                Acercarse al módulo de alquiler.
+                            </h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 col-xs-6 line-pos-2">
+                    <div class="sope-tools-process-wrapper">
+                        <img
+                            class="sope-tools-image"
+                            src="<!-- replace_url -->assets/img/paso2.svg"
+                        />
+                        <div class="sope-tools-info">
+                            <h3 class="sope-tools-titlebig">PASO 2</h3>
+                            <h5 class="sope-tools-titlesmall">
+                                El asesor indaga sobre el proyecto y se
+                                selecciona la herramienta adecuada.
+                            </h5>
+                        </div>
+                    </div>
+                </div>
+                <div
+                    class="col-md-4 col-sm-6 col-xs-6 img-step-right line-pos-3"
+                >
+                    <div class="sope-tools-process-wrapper">
+                        <img
+                            class="sope-tools-image"
+                            src="<!-- replace_url -->assets/img/paso3.svg"
+                        />
+                        <div class="sope-tools-info">
+                            <h3 class="sope-tools-titlebig">PASO 3</h3>
+                            <h5 class="sope-tools-titlesmall">
+                                La herramienta seleccionada es probada para
+                                validar su funcionamiento.
+                            </h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 col-xs-6 line-pos-4">
+                    <div class="sope-tools-process-wrapper">
+                        <img
+                            class="sope-tools-image"
+                            src="<!-- replace_url -->assets/img/paso4.svg"
+                        />
+                        <div class="sope-tools-info">
+                            <h3 class="sope-tools-titlebig">PASO 4</h3>
+                            <h5 class="sope-tools-titlesmall">
+                                Se genera el contrato con su información y se
+                                retiene la garantía*.
+                            </h5>
+                            <h6 class="sope-tools-infoitalic">
+                                * El pago de la garantía está sujeta a la
+                                modalidad de la misma.
+                            </h6>
+                        </div>
+                    </div>
+                </div>
+                <div
+                    class="col-md-4 col-sm-6 col-xs-6 img-step-center line-pos-5"
+                >
+                    <div class="sope-tools-process-wrapper">
+                        <img
+                            class="sope-tools-image"
+                            src="<!-- replace_url -->assets/img/paso5.svg"
+                        />
+                        <div class="sope-tools-info">
+                            <h3 class="sope-tools-titlebig">PASO 5</h3>
+                            <h5 class="sope-tools-titlesmall">
+                                Usted se lleva la herramienta.
+                            </h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 col-xs-6">
+                    <div class="sope-tools-process-wrapper">
+                        <img
+                            class="sope-tools-image"
+                            src="<!-- replace_url -->assets/img/paso6.svg"
+                        />
+                        <div class="sope-tools-info">
+                            <h3 class="sope-tools-titlebig">PASO 6</h3>
+                            <h5 class="sope-tools-titlesmall">
+                                Se devuelve la herramienta y paga el alquiler de
+                                la misma. Tras verificar el óptimo
+                                funcionamiento del producto, se retornará la
+                                garantia.
+                            </h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="sope-tools bg-gray  padding-top-30">
+    <div class="sope-tools-question max-width-1000 margin-auto">
+        <div class="row center-block">
+            <div class="sope-tools-category-header">
+                <h3>
+                    + PREGUNTAS FRECUENTES
+                </h3>
+            </div>
+            <div
+                class="row sope-tools-category-body no-margin padding-20 padding-30"
+            >
+                <div class="center-block">
+                    <div class="col-md-6 col-sm-6 col-xs-12  no-padding-left">
+                        <div class="sope-tools-question-rent-guarantee">
+                            <div
+                                class="sope-tools-banner-question banner-rent-guarantee"
+                            >
+                                <h6 class="sope-tools-text-banner">
+                                    EL ALQUILER Y LA GARANTÍA
+                                </h6>
+                            </div>
+                            <div class="sope-tools-question-wrapper">
+                                <div
+                                    id="accordion-rent"
+                                    role="tablist"
+                                    aria-multiselectable="true"
+                                    class="accordion-question"
+                                >
+                                    <div class="mod-accordion">
+                                        <!--ITEM 01 -->
+                                        <div class="item-accord card">
+                                            <div
+                                                class="card-header"
+                                                role="tab"
+                                                id="heading-one-rent"
+                                            >
+                                                <h5 class="mb-0 padding-top-10">
+                                                    <a
+                                                        data-toggle="collapse"
+                                                        data-parent="#accordion-rent"
+                                                        href="#collapse-one-rent"
+                                                        aria-expanded="false"
+                                                        aria-controls="collapse-one-rent"
+                                                    >
+                                                        ¿Qué incluye el
+                                                        alquiler?
+                                                        <i
+                                                            class="plus fa fa-plus"
+                                                        ></i
+                                                    ></a>
+                                                </h5>
+                                            </div>
+                                            <div
+                                                id="collapse-one-rent"
+                                                class="collapse"
+                                                role="tabpanel"
+                                                aria-labelledby="heading-one-rent"
+                                            >
+                                                <div class="card-block">
+                                                    <p>
+                                                        El alquiler incluye solo
+                                                        el uso de la herramienta
+                                                        misma; todos los
+                                                        accesorios como brocas,
+                                                        bolsas, cinceles,
+                                                        detergentes, etc., son
+                                                        alquilados o vendidos
+                                                        por separado.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!--ITEM 02 -->
+                                        <div class="item-accord card">
+                                            <div
+                                                class="card-header"
+                                                role="tab"
+                                                id="heading-two-rent"
+                                            >
+                                                <h5 class="mb-0">
+                                                    <a
+                                                        class="collapsed"
+                                                        data-toggle="collapse"
+                                                        data-parent="#accordion-rent"
+                                                        href="#collapse-two-rent"
+                                                        aria-expanded="false"
+                                                        aria-controls="collapse-two-rent"
+                                                        >¿Cuánto es el tiempo
+                                                        máximo que puedo
+                                                        alquilar una
+                                                        herramienta?<i
+                                                            class="plus fa fa-plus"
+                                                        ></i
+                                                    ></a>
+                                                </h5>
+                                            </div>
+                                            <div
+                                                id="collapse-two-rent"
+                                                class="collapse "
+                                                role="tabpanel"
+                                                aria-labelledby="heading-two-rent"
+                                            >
+                                                <div class="card-block">
+                                                    <p>
+                                                        El tiempo lo define la
+                                                        persona que alquila la
+                                                        herramienta. Sin
+                                                        embargo, si la garantía
+                                                        fue dejada con tarjeta
+                                                        de crédito, deberá
+                                                        acercarse a tienda a
+                                                        renovar el contrato cada
+                                                        20 días. Si se dejó en
+                                                        efectivo, la renovación
+                                                        presencial se debe hacer
+                                                        cada 30 días.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!--ITEM 03 -->
+                                        <div class="item-accord card">
+                                            <div
+                                                class="card-header"
+                                                role="tab"
+                                                id="heading-three-rent"
+                                            >
+                                                <h5 class="mb-0">
+                                                    <a
+                                                        class="collapsed"
+                                                        data-toggle="collapse"
+                                                        data-parent="#accordion-rent"
+                                                        href="#collapse-three-rent"
+                                                        aria-expanded="false"
+                                                        aria-controls="collapse-three-rent"
+                                                        >¿Cuánto tiempo demora
+                                                        la devolución del dinero
+                                                        de la garantía?<i
+                                                            class="plus fa fa-plus"
+                                                        ></i
+                                                    ></a>
+                                                </h5>
+                                            </div>
+                                            <div
+                                                id="collapse-three-rent"
+                                                class="collapse "
+                                                role="tabpanel"
+                                                aria-labelledby="heading-three-rent"
+                                            >
+                                                <div class="card-block">
+                                                    <p>
+                                                        En el caso de las
+                                                        garantías en efectivo,
+                                                        la devolución es
+                                                        inmediata. Cuando se
+                                                        retiene por medio de una
+                                                        tarjeta de crédito, se
+                                                        procede a solicitar la
+                                                        devolución con la misma
+                                                        tarjeta y es el banco
+                                                        quien gestiona el
+                                                        proceso, que toma entre
+                                                        3 y 5 días hábiles
+                                                        (dependiendo de la
+                                                        entidad financiera).
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!--ITEM 04 -->
+                                        <div class="item-accord card">
+                                            <div
+                                                class="card-header"
+                                                role="tab"
+                                                id="heading-four-rent"
+                                            >
+                                                <h5 class="mb-0">
+                                                    <a
+                                                        class="collapsed"
+                                                        data-toggle="collapse"
+                                                        data-parent="#accordion-rent"
+                                                        href="#collapse-four-rent"
+                                                        aria-expanded="false"
+                                                        aria-controls="collapse-four-rent"
+                                                        >¿Cuáles son las formas
+                                                        de pago para la
+                                                        garantía?<i
+                                                            class="plus fa fa-plus"
+                                                        ></i
+                                                    ></a>
+                                                </h5>
+                                            </div>
+                                            <div
+                                                id="collapse-four-rent"
+                                                class="collapse "
+                                                role="tabpanel"
+                                                aria-labelledby="heading-four-rent"
+                                            >
+                                                <div class="card-block">
+                                                    <p>
+                                                        La garantía se puede
+                                                        dejar en efectivo o con
+                                                        cualquier tarjeta de
+                                                        crédito. En el caso de
+                                                        empresas con línea de
+                                                        crédito en Sodimac, se
+                                                        puede retener una parte,
+                                                        la cual es devuelta al
+                                                        momento de entregar
+                                                        la(s) herramienta(s). A
+                                                        partir de enero del 2018
+                                                        contamos con una
+                                                        modalidad, en la que se
+                                                        le verificará en
+                                                        Infocorp y, de salir
+                                                        aprobado, le daremos la
+                                                        herramienta sin
+                                                        necesidad de entregar
+                                                        garantía.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!--ITEM 05 -->
+                                        <div class="item-accord card">
+                                            <div
+                                                class="card-header"
+                                                role="tab"
+                                                id="heading-five-rent"
+                                            >
+                                                <h5 class="mb-0">
+                                                    <a
+                                                        class="collapsed"
+                                                        data-toggle="collapse"
+                                                        data-parent="#accordion-rent"
+                                                        href="#collapse-five-rent"
+                                                        aria-expanded="false"
+                                                        aria-controls="collapse-five-rent"
+                                                        >¿Se puede dejar la
+                                                        garantía con tarjeta de
+                                                        débito?<i
+                                                            class="plus fa fa-plus"
+                                                        ></i
+                                                    ></a>
+                                                </h5>
+                                            </div>
+                                            <div
+                                                id="collapse-five-rent"
+                                                class="collapse "
+                                                role="tabpanel"
+                                                aria-labelledby="heading-five-rent"
+                                            >
+                                                <div class="card-block">
+                                                    <p>
+                                                        Solo se puede dejar la
+                                                        garantía con tarjeta de
+                                                        crédito o efectivo.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!--ITEM 06 -->
+                                        <div class="item-accord card">
+                                            <div
+                                                class="card-header"
+                                                role="tab"
+                                                id="heading-six-rent"
+                                            >
+                                                <h5 class="mb-0">
+                                                    <a
+                                                        class="collapsed"
+                                                        data-toggle="collapse"
+                                                        data-parent="#accordion-rent"
+                                                        href="#collapse-six-rent"
+                                                        aria-expanded="false"
+                                                        aria-controls="collapse-six-rent"
+                                                        >¿Cómo es el proceso de
+                                                        devolución de la
+                                                        garantía?<i
+                                                            class="plus fa fa-plus"
+                                                        ></i
+                                                    ></a>
+                                                </h5>
+                                            </div>
+                                            <div
+                                                id="collapse-six-rent"
+                                                class="collapse "
+                                                role="tabpanel"
+                                                aria-labelledby="heading-six-rent"
+                                            >
+                                                <div class="card-block">
+                                                    <p>
+                                                        Se hace al momento que
+                                                        regresa la herramienta.
+                                                        La devolución se hace en
+                                                        POS en caso de tarjetas
+                                                        de crédito, y en caso de
+                                                        efectivo estos son los
+                                                        horarios de devolución.
+                                                    </p>
+                                                    <a
+                                                        class="btn-hour"
+                                                        href=""
+                                                        title="Click"
+                                                        onclick=""
+                                                        tabindex="-1"
+                                                        data-toggle="modal"
+                                                        data-target="#myModalHour"
+                                                        >Horarios de
+                                                        devolución</a
+                                                    >
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-xs-12  no-padding-right">
+                        <div class="sope-tools-question-tools">
+                            <div
+                                class="sope-tools-banner-question banner-tools"
+                            >
+                                <h6 class="sope-tools-text-banner">
+                                    LAS HERRAMIENTAS
+                                </h6>
+                            </div>
+                            <div class="sope-tools-question-wrapper">
+                                <div
+                                    id="accordion-tools"
+                                    role="tablist"
+                                    aria-multiselectable="true"
+                                    class="accordion-question"
+                                >
+                                    <!--MODULE -->
+                                    <div class="mod-accordion">
+                                        <!--ITEM 01 -->
+                                        <div class="item-accord card">
+                                            <div
+                                                class="card-header"
+                                                role="tab"
+                                                id="heading-one-tools"
+                                            >
+                                                <h5 class="mb-0 padding-top-10">
+                                                    <a
+                                                        data-toggle="collapse"
+                                                        data-parent="#accordion-tools"
+                                                        href="#collapse-one-tools"
+                                                        aria-expanded="false"
+                                                        aria-controls="collapse-one-tools"
+                                                        >¿Qué pasa si se pierde
+                                                        la herramienta?
+                                                        <i
+                                                            class="plus fa fa-plus"
+                                                        ></i
+                                                    ></a>
+                                                </h5>
+                                            </div>
+                                            <div
+                                                id="collapse-one-tools"
+                                                class="collapse"
+                                                role="tabpanel"
+                                                aria-labelledby="heading-one-tools"
+                                            >
+                                                <div class="card-block">
+                                                    <p>
+                                                        Se hará el cobro de la
+                                                        garantía y de los días
+                                                        de alquiler
+                                                        transcurridos durante el
+                                                        contrato hasta la
+                                                        declaración de la
+                                                        pérdida.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!--ITEM 02 -->
+                                        <div class="item-accord card">
+                                            <div
+                                                class="card-header"
+                                                role="tab"
+                                                id="heading-two-tools"
+                                            >
+                                                <h5 class="mb-0">
+                                                    <a
+                                                        class="collapsed"
+                                                        data-toggle="collapse"
+                                                        data-parent="#accordion-tools"
+                                                        href="#collapse-two-tools"
+                                                        aria-expanded="false"
+                                                        aria-controls="collapse-two-tools"
+                                                        >¿Qué pasa si la
+                                                        herramienta se devuelve
+                                                        dañada?<i
+                                                            class="plus fa fa-plus"
+                                                        ></i
+                                                    ></a>
+                                                </h5>
+                                            </div>
+                                            <div
+                                                id="collapse-two-tools"
+                                                class="collapse "
+                                                role="tabpanel"
+                                                aria-labelledby="heading-two-tools"
+                                            >
+                                                <div class="card-block">
+                                                    <p>
+                                                        En este caso, el 100% de
+                                                        la garantía será
+                                                        retenida y la
+                                                        herramienta enviada a
+                                                        servicio técnico para un
+                                                        diagnóstico. Si se
+                                                        determina que la falla
+                                                        es por mal uso, usted
+                                                        debe asumir el costo de
+                                                        la reparación. Por lo
+                                                        tanto, este monto puede
+                                                        tomarse de la garantía y
+                                                        se le devolverá el
+                                                        excedente.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!--ITEM 03 -->
+                                        <div class="item-accord card">
+                                            <div
+                                                class="card-header"
+                                                role="tab"
+                                                id="heading-three-tools"
+                                            >
+                                                <h5 class="mb-0">
+                                                    <a
+                                                        class="collapsed"
+                                                        data-toggle="collapse"
+                                                        data-parent="#accordion-tools"
+                                                        href="#collapse-three-tools"
+                                                        aria-expanded="false"
+                                                        aria-controls="collapse-three-tools"
+                                                        >¿Qué pasa si la
+                                                        herramienta es devuelta
+                                                        sucia?<i
+                                                            class="plus fa fa-plus"
+                                                        ></i
+                                                    ></a>
+                                                </h5>
+                                            </div>
+                                            <div
+                                                id="collapse-three-tools"
+                                                class="collapse "
+                                                role="tabpanel"
+                                                aria-labelledby="heading-three-tools"
+                                            >
+                                                <div class="card-block">
+                                                    <p>
+                                                        Se cobra un porcentaje
+                                                        del precio de alquiler
+                                                        diario por motivo de
+                                                        limpieza.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!--ITEM 04 -->
+                                        <div class="item-accord card">
+                                            <div
+                                                class="card-header"
+                                                role="tab"
+                                                id="heading-four-tools"
+                                            >
+                                                <h5 class="mb-0">
+                                                    <a
+                                                        class="collapsed"
+                                                        data-toggle="collapse"
+                                                        data-parent="#accordion-tools"
+                                                        href="#collapse-four-tools"
+                                                        aria-expanded="false"
+                                                        aria-controls="collapse-four-tools"
+                                                        >¿Qué pasa si la
+                                                        herramienta deja de
+                                                        funcionar en la obra?<i
+                                                            class="plus fa fa-plus"
+                                                        ></i
+                                                    ></a>
+                                                </h5>
+                                            </div>
+                                            <div
+                                                id="collapse-four-tools"
+                                                class="collapse "
+                                                role="tabpanel"
+                                                aria-labelledby="heading-four-tools"
+                                            >
+                                                <div class="card-block">
+                                                    <p>
+                                                        Usted puede regresar la
+                                                        herramienta a la tienda
+                                                        y se le cambiará por
+                                                        otra sin costo alguno.
+                                                        Mientras tanto, la
+                                                        herramienta será enviada
+                                                        a servicio técnico para
+                                                        evaluar sus fallas.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="sope-tools bg-gray over-flow">
+    <div class="sope-tools-marks max-width-1000 margin-auto">
+        <div class="row center-block">
+            <div class="sope-tools-category-header">
+                <h3>
+                    + ENCUENTRE LAS SIGUIENTES MARCAS
+                </h3>
+            </div>
+            <div class="row sope-tools-category-body no-margin">
+                <div class="center-block padding-20 hidden-xs hidden-sm">
+                    <div class="box-container">
+                        <div class="row box-wrapper-mark">
+                            <div class="box-slide-mark slide-mark slide-mark-1">
+                                <img
+                                    class="img-mark"
+                                    src="<!-- replace_url -->assets/img/marcas/marca-1.png"
+                                />
+                            </div>
+                            <div class="box-slide-mark slide-mark slide-mark-2">
+                                <img
+                                    class="img-mark"
+                                    src="<!-- replace_url -->assets/img/marcas/marca-2.png"
+                                />
+                            </div>
+                            <div class="box-slide-mark slide-mark slide-mark-3">
+                                <img
+                                    class="img-mark"
+                                    src="<!-- replace_url -->assets/img/marcas/marca-3.png"
+                                />
+                            </div>
+                            <div class="box-slide-mark slide-mark slide-mark-4">
+                                <img
+                                    class="img-mark margin-top-12"
+                                    src="<!-- replace_url -->assets/img/marcas/marca-4.png"
+                                />
+                            </div>
+                            <div class="box-slide-mark slide-mark slide-mark-5">
+                                <img
+                                    class="img-mark"
+                                    src="<!-- replace_url -->assets/img/marcas/marca-5.png"
+                                />
+                            </div>
+                            <div class="box-slide-mark slide-mark slide-mark-6">
+                                <img
+                                    class="img-mark"
+                                    src="<!-- replace_url -->assets/img/marcas/marca-6.png"
+                                />
+                            </div>
+                            <div class="box-slide-mark slide-mark slide-mark-7">
+                                <img
+                                    class="img-mark"
+                                    src="<!-- replace_url -->assets/img/marcas/marca-7.png"
+                                />
+                            </div>
+                            <div class="box-slide-mark slide-mark slide-mark-8">
+                                <img
+                                    class="img-mark"
+                                    src="<!-- replace_url -->assets/img/marcas/marca-8.png"
+                                />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="center-block padding-20 visible-xs visible-sm">
+                    <div class="swiper-container swiper-container-marks">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide slide-mark slide-mark-1">
+                                <img
+                                    class="img-mark"
+                                    src="<!-- replace_url -->assets/img/marcas/marca-1.png"
+                                />
+                            </div>
+                            <div class="swiper-slide slide-mark slide-mark-2">
+                                <img
+                                    class="img-mark"
+                                    src="<!-- replace_url -->assets/img/marcas/marca-2.png"
+                                />
+                            </div>
+                            <div class="swiper-slide slide-mark slide-mark-3">
+                                <img
+                                    class="img-mark"
+                                    src="<!-- replace_url -->assets/img/marcas/marca-3.png"
+                                />
+                            </div>
+                            <div class="swiper-slide slide-mark slide-mark-4">
+                                <img
+                                    class="img-mark margin-top-12"
+                                    src="<!-- replace_url -->assets/img/marcas/marca-4.png"
+                                />
+                            </div>
+                            <div class="swiper-slide slide-mark slide-mark-5">
+                                <img
+                                    class="img-mark"
+                                    src="<!-- replace_url -->assets/img/marcas/marca-5.png"
+                                />
+                            </div>
+                            <div class="swiper-slide slide-mark slide-mark-6">
+                                <img
+                                    class="img-mark"
+                                    src="<!-- replace_url -->assets/img/marcas/marca-6.png"
+                                />
+                            </div>
+                            <div class="swiper-slide slide-mark slide-mark-7">
+                                <img
+                                    class="img-mark"
+                                    src="<!-- replace_url -->assets/img/marcas/marca-7.png"
+                                />
+                            </div>
+                            <div class="swiper-slide slide-mark slide-mark-8">
+                                <img
+                                    class="img-mark"
+                                    src="<!-- replace_url -->assets/img/marcas/marca-8.png"
+                                />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="sope-tools bg-yellow">
+    <div class="sope-tools-map">
+        <div class="row center-block">
+            <div class="col-md-6 no-padding hidden-xs hidden-sm">
+                <img
+                    src="<!-- replace_url -->assets/img/taladro_map_desktop.jpg"
+                    alt="Taladro"
+                    class="sope-tools-map-img img-responsive"
+                />
+            </div>
+            <div class="col-md-6 no-padding  hidden-xs hidden-sm">
+                <img
+                    src="<!-- replace_url -->assets/img/maquina_map_desktop.jpg"
+                    alt="Maquinaria"
+                    class="sope-tools-map-img img-responsive"
+                />
+            </div>
+            <div class="col-xs-6 col-sm-6 no-padding visible-xs visible-sm">
+                <img
+                    src="<!-- replace_url -->assets/img/maquina_map_mobile.jpg"
+                    alt="Maquinaria"
+                    class="sope-tools-map-img img-responsive"
+                />
+            </div>
+            <div class="col-xs-6 col-sm-6 no-padding  visible-xs visible-sm">
+                <img
+                    src="<!-- replace_url -->assets/img/taladro_map_mobile.jpg"
+                    alt="Taladro"
+                    class="sope-tools-map-img img-responsive"
+                />
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--modal Hour-->
+<div
+    class="modal"
+    id="myModalHour"
+    tabindex="-1"
+    role="dialog"
+    aria-labelledby="myModalLabelHour"
+>
+    <div class="modal-dialog modal-dialog-hour" role="document">
+        <div class="modal-content modal-content-hour">
+            <div class="modal-header modal-header-hour">
+                <button
+                    class="button-header-hour"
+                    type="button"
+                    class="close"
+                    data-dismiss="modal"
+                    aria-label="Close"
+                >
+                    <span class="span-header-hour" aria-hidden="true"
+                        ><img src="<!-- replace_url -->assets/img/close.png"
+                    /></span>
+                    <span
+                        class="span-header-close visible-xs visible-sm"
+                        aria-hidden="true"
+                        >CERRAR</span
+                    >
+                </button>
+            </div>
+            <div class="modal-body modal-body-hour">
+                <div class="hour-container">
+                    <div
+                        class="container-hour-main scrollbar-hour style-scroll"
+                    >
+                        <div class="row">
+                            <div
+                                class="title-hour-main col-md-10 colmd-offset-1 col-xs-10 col-xs-offset-1 col-sm-10 col-sm-offset-1 no-padding"
+                            >
+                                <span
+                                    >HORARIO DE ATENCIÓN PARA DEVOLUCIÓN DE
+                                    EFECTIVOS</span
+                                >
+                            </div>
+                            <div
+                                class="col-md-6 col-xs-12 col-sm-12 no-padding"
+                            >
+                                <div
+                                    class="center-text-store line-modal-bottom-right  modal-line-1 line-modal-mobile-hour"
+                                >
+                                    <div class="col-md-6 col-xs-6 col-sm-6">
+                                        Angamos
+                                    </div>
+                                    <div
+                                        class="col-md-6 col-xs-6 col-sm-6 format-text-hour"
+                                    >
+                                        L-V: &nbsp;7:30 - 8:00<br />
+                                        Sáb: 7:30 - 5:00
+                                    </div>
+                                </div>
+                                <div
+                                    class="center-text-store line-modal-bottom-right  modal-line-2 line-modal-mobile-hour"
+                                >
+                                    <div class="col-md-6 col-xs-6 col-sm-6">
+                                        Ate
+                                    </div>
+                                    <div
+                                        class="col-md-6 col-xs-6 col-sm-6 format-text-hour"
+                                    >
+                                        L-V: &nbsp;7:30 - 8:00<br />
+                                        Sáb: 7:30 - 5:00
+                                    </div>
+                                </div>
+                                <div
+                                    class="center-text-store line-modal-bottom-right  modal-line-2 line-modal-mobile-hour"
+                                >
+                                    <div class="col-md-6 col-xs-6 col-sm-6">
+                                        Atocongo
+                                    </div>
+                                    <div
+                                        class="col-md-6 col-xs-6 col-sm-6 format-text-hour"
+                                    >
+                                        L-V: &nbsp;7:30 - 8:00<br />
+                                        Sáb: 7:30 - 5:00
+                                    </div>
+                                </div>
+                                <div
+                                    class="center-text-store modal-line-2 line-modal-mobile-hour"
+                                >
+                                    <div class="col-md-6 col-xs-6 col-sm-6">
+                                        Javier Prado
+                                    </div>
+                                    <div
+                                        class="col-md-6 col-xs-6 col-sm-6 format-text-hour"
+                                    >
+                                        L-V: &nbsp;7:30 - 8:00<br />
+                                        Sáb: 7:30 - 4:00
+                                    </div>
+                                </div>
+                                <div
+                                    class="center-text-store modal-line-2 line-modal-mobile-hour"
+                                >
+                                    <div class="col-md-6 col-xs-6 col-sm-6">
+                                        Jockey Plaza
+                                    </div>
+                                    <div
+                                        class="col-md-6 col-xs-6 col-sm-6 format-text-hour"
+                                    >
+                                        L-V: &nbsp;7:30 - 8:00<br />
+                                        Sáb: 7:30 - 5:00
+                                    </div>
+                                </div>
+                                <div
+                                    class="center-text-store modal-line-2 line-modal-mobile-hour"
+                                >
+                                    <div class="col-md-6 col-xs-6 col-sm-6">
+                                        Lima Centro
+                                    </div>
+                                    <div
+                                        class="col-md-6 col-xs-6 col-sm-6 format-text-hour"
+                                    >
+                                        L-V: &nbsp;7:30 - 8:00<br />
+                                        Sáb: 7:30 - 5:00
+                                    </div>
+                                </div>
+                                <div
+                                    class="center-text-store modal-line-2 line-modal-mobile-hour"
+                                >
+                                    <div class="col-md-6 col-xs-6 col-sm-6">
+                                        Megaplaza
+                                    </div>
+                                    <div
+                                        class="col-md-6 col-xs-6 col-sm-6 format-text-hour"
+                                    >
+                                        L-V: &nbsp;7:30 - 8:00<br />
+                                        Sáb: 7:30 - 5:00
+                                    </div>
+                                </div>
+                                <div
+                                    class="center-text-store modal-line-4 line-modal-mobile-hour"
+                                >
+                                    <div class="col-md-6 col-xs-6 col-sm-6">
+                                        S. J. de Lurigancho
+                                    </div>
+                                    <div
+                                        class="col-md-6 col-xs-6 col-sm-6 format-text-hour"
+                                    >
+                                        L-V: &nbsp;8:00 - 6:00<br />
+                                        Sáb: 8:00 - 12:00
+                                    </div>
+                                </div>
+                            </div>
+                            <div
+                                class="col-md-6 col-xs-12 col-sm-12 no-padding"
+                            >
+                                <div
+                                    class="center-text-store modal-line-3 line-modal-mobile-hour"
+                                >
+                                    <div class="col-md-6 col-xs-6 col-sm-6">
+                                        San Miguel
+                                    </div>
+                                    <div
+                                        class="col-md-6 col-xs-6 col-sm-6 format-text-hour"
+                                    >
+                                        L-V: &nbsp;7:30 - 8:00<br />
+                                        Sáb: 7:30 - 5:00
+                                    </div>
+                                </div>
+                                <div
+                                    class="center-text-store modal-line-3 line-modal-mobile-hour"
+                                >
+                                    <div class="col-md-6 col-xs-6 col-sm-6">
+                                        Villa el Salvador
+                                    </div>
+                                    <div
+                                        class="col-md-6 col-xs-6 col-sm-6 format-text-hour"
+                                    >
+                                        L-V: &nbsp;8:00 - 5:30<br />
+                                        Sáb: 8:00 - 1:00
+                                    </div>
+                                </div>
+                                <div
+                                    class="center-text-store modal-line-3 line-modal-mobile-hour"
+                                >
+                                    <div class="col-md-6 col-xs-6 col-sm-6">
+                                        Sullana
+                                    </div>
+                                    <div
+                                        class="col-md-6 col-xs-6 col-sm-6 format-text-hour"
+                                    >
+                                        L-V: &nbsp;8:00 - 5:30<br />
+                                        Sáb: 8:00 - 12:00
+                                    </div>
+                                </div>
+                                <div
+                                    class="center-text-store modal-line-3 line-modal-mobile-hour"
+                                >
+                                    <div class="col-md-6 col-xs-6 col-sm-6">
+                                        Pucallpa
+                                    </div>
+                                    <div
+                                        class="col-md-6 col-xs-6 col-sm-6 format-text-hour"
+                                    >
+                                        L-V: &nbsp;7:30 - 8:00<br />
+                                        Sáb: 7:30 - 5:00
+                                    </div>
+                                </div>
+                                <div
+                                    class="center-text-store modal-line-3 line-modal-mobile-hour"
+                                >
+                                    <div class="col-md-6 col-xs-6 col-sm-6">
+                                        Cañete
+                                    </div>
+                                    <div
+                                        class="col-md-6 col-xs-6 col-sm-6 format-text-hour"
+                                    >
+                                        L-V: &nbsp;8:00 - 6:00<br />
+                                        Sáb: 9:00 - 12:00
+                                    </div>
+                                </div>
+                                <div
+                                    class="center-text-store modal-line-3 line-modal-mobile-hour"
+                                >
+                                    <div class="col-md-6 col-xs-6 col-sm-6">
+                                        Huacho
+                                    </div>
+                                    <div
+                                        class="col-md-6 col-xs-6 col-sm-6 format-text-hour"
+                                    >
+                                        L-V: &nbsp;8:00 - 6:00<br />
+                                        Sáb: 8:00 - 2:00
+                                    </div>
+                                </div>
+                                <div class="center-text-store modal-line-3">
+                                    <div class="col-md-6 col-xs-6 col-sm-6">
+                                        Huancayo
+                                    </div>
+                                    <div
+                                        class="col-md-6 col-xs-6 col-sm-6 format-text-hour"
+                                    >
+                                        L-V: &nbsp;8:00 - 5:30<br />
+                                        Sáb: 8:00 - 1:30
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script
+    type="text/javascript"
+    src="http://www.sodimac.com.pe/static/categorias/contenidoEstatico/catalogos/2017/Febrero/03-Aviso-Gasfiteria/dist/js/vendor.min.js"
+></script>
+<script type="text/javascript" src="<!-- replace_url -->assets/js/plugins<!-- min -->.js"></script>
+<script type="text/javascript" src="<!-- replace_url -->assets/js/core<!-- min -->.js"></script>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $(".slick-prev").html(
+            '<img class="arrow-left" src="<!-- replace_url -->assets/img/iconos/arrow_left.png"/>'
+        );
+        $(".slick-next").html(
+            '<img class="arrow-right" src="<!-- replace_url -->assets/img/iconos/arrow_right.png"/>'
+        );
+
+        var swiperBenefits = new Swiper(".swiper-container-benefits", {
+            slidesPerView: 4,
+            loop: false,
+            freeMode: false,
+            paginationClickable: false,
+            breakpoints: {
+                1000: {
+                    slidesPerView: 2,
+                    loop: true,
+                    nextButton: ".swiper-button-next",
+                    prevButton: ".swiper-button-prev",
+                    spaceBetween: 10,
+                    preloadImages: false
+                }
+            }
+        });
+        var swiperMarks = new Swiper(".swiper-container-marks", {
+            slidesPerView: 8,
+            loop: false,
+            freeMode: false,
+            paginationClickable: false,
+            breakpoints: {
+                1000: {
+                    slidesPerView: "auto",
+                    loop: true,
+                    autoplay: 5000
+                }
+            }
+        });
+    });
+</script>
+
+<!--=include ../../commons/html/footer.html -->

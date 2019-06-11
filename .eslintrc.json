@@ -1,0 +1,10 @@
+{
+	"parser":"babel-eslint",
+	"extends": "wordpress",
+	"rules": {
+		"yoda": [
+			"error",
+			"never"
+		]
+	}
+}

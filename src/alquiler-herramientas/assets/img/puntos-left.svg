@@ -1,0 +1,80 @@
+<svg width="8" height="320" xmlns="http://www.w3.org/2000/svg">
+ <style type="text/css">.st0{fill:#211915;}</style>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="322" width="10" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" d="m-37.8,-453.1" class="st0"/>
+  <g transform="rotate(90 4.19999694824216,156.19999694824222) " id="svg_2">
+   <g id="svg_3">
+    <g id="svg_4">
+     <circle stroke-dasharray="2,2" id="svg_5" r="1.2" cy="156.2" cx="-149.8"/>
+     <circle stroke-dasharray="2,2" id="svg_6" r="1.2" cy="156.2" cx="-142.3"/>
+     <circle stroke-dasharray="2,2" id="svg_7" r="1.2" cy="156.2" cx="-134.8"/>
+     <circle stroke-dasharray="2,2" id="svg_8" r="1.2" cy="156.2" cx="-127.3"/>
+     <circle stroke-dasharray="2,2" id="svg_9" r="1.2" cy="156.2" cx="-119.8"/>
+     <circle stroke-dasharray="2,2" id="svg_10" r="1.2" cy="156.2" cx="-112.3"/>
+    </g>
+    <g id="svg_11">
+     <circle stroke-dasharray="2,2" id="svg_12" r="1.2" cy="156.2" cx="-104.7"/>
+     <circle stroke-dasharray="2,2" id="svg_13" r="1.2" cy="156.2" cx="-97.2"/>
+     <circle stroke-dasharray="2,2" id="svg_14" r="1.2" cy="156.2" cx="-89.7"/>
+     <circle stroke-dasharray="2,2" id="svg_15" r="1.2" cy="156.2" cx="-82.2"/>
+     <circle stroke-dasharray="2,2" id="svg_16" r="1.2" cy="156.2" cx="-74.7"/>
+     <circle stroke-dasharray="2,2" id="svg_17" r="1.2" cy="156.2" cx="-67.2"/>
+    </g>
+   </g>
+   <g id="svg_18">
+    <g id="svg_19">
+     <circle stroke-dasharray="2,2" id="svg_20" r="1.2" cy="156.2" cx="-59.7"/>
+     <circle stroke-dasharray="2,2" id="svg_21" r="1.2" cy="156.2" cx="-52.2"/>
+     <circle stroke-dasharray="2,2" id="svg_22" r="1.2" cy="156.2" cx="-44.7"/>
+     <circle stroke-dasharray="2,2" id="svg_23" r="1.2" cy="156.2" cx="-37.2"/>
+     <circle stroke-dasharray="2,2" id="svg_24" r="1.2" cy="156.2" cx="-29.7"/>
+     <circle stroke-dasharray="2,2" id="svg_25" r="1.2" cy="156.2" cx="-22.2"/>
+    </g>
+    <g id="svg_26">
+     <circle stroke-dasharray="2,2" id="svg_27" r="1.2" cy="156.2" cx="-14.6"/>
+     <circle stroke-dasharray="2,2" id="svg_28" r="1.2" cy="156.2" cx="-7.1"/>
+     <circle stroke-dasharray="2,2" id="svg_29" r="1.2" cy="156.2" cx="0.4"/>
+     <circle stroke-dasharray="2,2" id="svg_30" r="1.2" cy="156.2" cx="7.9"/>
+     <circle stroke-dasharray="2,2" id="svg_31" r="1.2" cy="156.2" cx="15.4"/>
+     <circle stroke-dasharray="2,2" id="svg_32" r="1.2" cy="156.2" cx="22.9"/>
+    </g>
+   </g>
+   <g id="svg_33">
+    <g id="svg_34">
+     <g id="svg_35">
+      <circle stroke-dasharray="2,2" id="svg_36" r="1.2" cy="156.2" cx="30.6"/>
+      <circle stroke-dasharray="2,2" id="svg_37" r="1.2" cy="156.2" cx="38.1"/>
+      <circle stroke-dasharray="2,2" id="svg_38" r="1.2" cy="156.2" cx="45.6"/>
+      <circle stroke-dasharray="2,2" id="svg_39" r="1.2" cy="156.2" cx="53.1"/>
+      <circle stroke-dasharray="2,2" id="svg_40" r="1.2" cy="156.2" cx="60.6"/>
+      <circle stroke-dasharray="2,2" id="svg_41" r="1.2" cy="156.2" cx="68.1"/>
+     </g>
+     <g id="svg_42">
+      <circle stroke-dasharray="2,2" id="svg_43" r="1.2" cy="156.2" cx="75.6"/>
+      <circle stroke-dasharray="2,2" id="svg_44" r="1.2" cy="156.2" cx="83.1"/>
+      <circle stroke-dasharray="2,2" id="svg_45" r="1.2" cy="156.2" cx="90.6"/>
+      <circle stroke-dasharray="2,2" id="svg_46" r="1.2" cy="156.2" cx="98.1"/>
+      <circle stroke-dasharray="2,2" id="svg_47" r="1.2" cy="156.2" cx="105.6"/>
+      <circle stroke-dasharray="2,2" id="svg_48" r="1.2" cy="156.2" cx="113.1"/>
+     </g>
+    </g>
+    <g id="svg_49">
+     <g id="svg_50">
+      <circle stroke-dasharray="2,2" id="svg_51" r="1.2" cy="156.2" cx="120.7"/>
+      <circle stroke-dasharray="2,2" id="svg_52" r="1.2" cy="156.2" cx="128.2"/>
+      <circle stroke-dasharray="2,2" id="svg_53" r="1.2" cy="156.2" cx="135.7"/>
+      <circle stroke-dasharray="2,2" id="svg_54" r="1.2" cy="156.2" cx="143.2"/>
+      <circle stroke-dasharray="2,2" id="svg_55" r="1.2" cy="156.2" cx="150.7"/>
+      <circle stroke-dasharray="2,2" id="svg_56" r="1.2" cy="156.2" cx="158.2"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

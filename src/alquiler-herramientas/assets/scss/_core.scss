@@ -1,0 +1,17 @@
+.full-container.breadrumbWrap {
+    display: none !important;
+}
+
+#main.newMainSection > .container {
+    width: 100%;
+    padding: 0;
+    margin: auto;
+}
+
+#main.newMainSection {
+    margin-top: 0 !important;
+}
+
+#main.newMainSection > .container > .col-md-12 {
+    padding: 0;
+}

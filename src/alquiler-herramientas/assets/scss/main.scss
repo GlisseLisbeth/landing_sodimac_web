@@ -1,0 +1,11 @@
+@import "../../../../commons/scss/base";
+
+// Import plugins style
+@import "../../../../node_modules/bourbon/app/assets/stylesheets/_bourbon";
+@import "../../../../node_modules/slick-carousel/slick/slick.scss";
+@import "../../../../node_modules/slick-carousel/slick/slick-theme.scss";
+
+@import "core";
+@import "menu";
+@import "internal";
+@import "style";
