@@ -212,7 +212,7 @@
     font-family: misoregular;
     font-size: 35px;
     line-height: 1;
-    padding: 10px 147px;
+    padding: 10px 146px;
     background-image: url(../img/recuadro_banner.svg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -922,6 +922,9 @@
         height: 78vh;
         overflow-x: hidden;
     }
+    .sope-text-banner {
+        margin-top: 215px;
+    }
     .slider-banner-1 {
         .sope-text-banner {
             padding: 17px 110px;
@@ -1044,6 +1047,9 @@
     .sope-tools-title-banner {
         font-size: 24px;
     }
+    .sope-tools-title-banner {
+        padding: 10px 120px;
+    }
     .subtitle {
         font-size: 20px;
     }
@@ -1074,23 +1080,26 @@
             }
         }
     }
+    .sope-text-banner {
+            margin-top: 115px !important;
+    }
     .slider-banner-1 {
         .sope-text-banner {
-            padding: 18px 113px;
+            padding: 18px 86px;
             font-size: 18px;
             top: 112px;
         }
     }
     .slider-banner-2 {
         .sope-text-banner {
-            padding: 18px 98px;
+            padding: 18px 71px;
             font-size: 18px;
             top: 112px;
         }
     }
     .slider-banner-3 {
         .sope-text-banner {
-            padding: 18px 99px;
+            padding: 18px 73px;
             font-size: 18px;
             top: 112px;
         }
@@ -1161,7 +1170,10 @@
     .sope-banner {
         padding-top: 14%;
     }
-
+    .sope-text-banner {
+        top: 140px !important;
+        margin-top: 12px !important;
+    }
     .slider-banner-1 {
         .sope-text-banner {
             padding: 10px 27px;
