@@ -114,3 +114,4 @@ GitHub.sublime-settings
 dist/
 devConfig.js
 public_html
+package-lock.json
