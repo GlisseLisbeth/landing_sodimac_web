@@ -165,11 +165,11 @@ $(document).ready(function() {
       return false;
 });
   // insert menu main and get menu for each category
-   $( "#menu-tools").load( "/static/categorias/contenidoEstatico/landings/alquiler_herramientas_prueba/menu.html?v=cntdrv8jry", function() {
-       $( ".container-menu-main").load( "/static/categorias/contenidoEstatico/landings/alquiler_herramientas_prueba/frame-menu.html?v=cntdrv8jry", function() {
+   $( "#menu-tools").load( "menu.html", function() {
+       $( ".container-menu-main").load( "frame-menu.html", function() {
           
           categories.forEach(function (item) {
-              $( ".container-menu-internal-"+item.container).load( "/static/categorias/contenidoEstatico/landings/alquiler_herramientas_prueba/menu-internal-" + item.url + ".html?v=cntdrv8jry", function() {
+              $( ".container-menu-internal-"+item.container).load( "menu-internal-" + item.url + ".html", function() {
                   var cidCat = localStorage.getItem('cid');
                   var activeSubCat = localStorage.getItem('sc');
                   if(cidCat !== null && activeSubCat !== null ){

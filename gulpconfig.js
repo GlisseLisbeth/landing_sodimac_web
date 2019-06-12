@@ -65,12 +65,12 @@ module.exports = {
                 src + 'assets/js/initial.js',
                 src + 'assets/js/mappost.js',
                 src + 'assets/js/mapselect.js',
-                src + 'assets/js/menus.js',
+                src + 'assets/js/menu.js',
                 src + 'assets/js/utils.js'
 
             ],
             initial: [
-                src + 'assets/js/maptiendas.js',
+                src + 'assets/js/maptiendas.js'
 
             ],
             plugins: [

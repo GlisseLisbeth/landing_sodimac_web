@@ -30,7 +30,7 @@ $(document).ready(function(){
     ]
   });
 
-  const blazy = new Blazy({ 
+  var blazy = new Blazy({ 
   });
 
 
