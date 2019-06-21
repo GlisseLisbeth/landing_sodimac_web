@@ -5,7 +5,6 @@ var devConfig = require( './devConfig' ),
     src = './src/' + devConfig.activeProject + '/',
     dist = './dist/' + devConfig.activeProject + '/',
     build = './public_html/',
-    commons = './commons/',
     modules = './node_modules/';
 
 var projects = {

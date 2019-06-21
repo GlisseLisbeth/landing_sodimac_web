@@ -20,6 +20,8 @@ gulp.task( 'dist', [
     'deploy'
 ]);
 
+gulp.task( 'deploy' );
+
 // Dist task chain: wipe -> build -> clean -> copy -> compress images
 // NOTE: this is a resource-intensive task!
 //gulp.task('dist', ['images-optimize']);
