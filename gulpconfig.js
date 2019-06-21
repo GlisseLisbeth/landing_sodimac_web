@@ -13,7 +13,7 @@ var projects = {
         html: {
             urls: {
                 prod:
-                    '/static/categorias/contenidoEstatico/landings/' + devConfig.activeProject + '/'
+                    devConfig.activeProject + '/'
             }
         },
         fonts: [

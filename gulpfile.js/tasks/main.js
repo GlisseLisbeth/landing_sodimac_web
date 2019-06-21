@@ -1,6 +1,7 @@
 // ==== MAIN ==== //
 
 var gulp = require( 'gulp' );
+var deploy = require( 'gulp-gh-pages' );
 
 // Default task chain: build -> watch
 gulp.task( 'default', [ 'watch' ]);
@@ -15,7 +16,8 @@ gulp.task( 'dist', [
     'images-optimize',
     'scripts-dist',
     'styles-dist',
-    'fonts-dist'
+    'fonts-dist',
+    'deploy'
 ]);
 
 // Dist task chain: wipe -> build -> clean -> copy -> compress images
