@@ -115,7 +115,7 @@ module.exports = {
     },
     browsersync: {
         server: {
-            baseDir: dist,
+            baseDir: build,
             directory: false
         },
         files: [ src ],

@@ -16,8 +16,7 @@ gulp.task( 'dist', [
     'images-optimize',
     'scripts-dist',
     'styles-dist',
-    'fonts-dist',
-    'deploy'
+    'fonts-dist'
 ]);
 
 gulp.task( 'deploy' );
