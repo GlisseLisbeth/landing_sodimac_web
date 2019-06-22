@@ -1,7 +1,6 @@
 // ==== MAIN ==== //
 
 var gulp = require( 'gulp' );
-var deploy = require( 'gulp-gh-pages' );
 
 // Default task chain: build -> watch
 gulp.task( 'default', [ 'watch' ]);
